@@ -4,3 +4,7 @@ Feliciano, Ian Josh M.
 BSIT 1B
 
 hi maam dawn! ito na po yung html, css final project ko po, merry christmas and happy new year! sawakas makakapag pahinga na ako HAHAHA
+
+$ git rm readme.md
+$ git commit
+$ git push
